@@ -20,6 +20,7 @@ CREATE TABLE partidas(
 CREATE TABLE participacion(
        idP INT NOT NULL,
        idJ INT NOT NULL,
+       
 
 ) ENGINE = InnoDB;
 
